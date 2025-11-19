@@ -1,0 +1,1 @@
+import{_ as e,c as t,k as n}from"./index-DbG_BeYM.js";var r=Symbol(),i=Symbol(),a=()=>e(i,null),o=e=>{let o=a();n(r,e),n(i,t(()=>(o==null||o.value)&&e.value))};export{o as n,a as t};
