@@ -1,0 +1,1 @@
+import{A as e,l as t,v as n}from"./index-BL4gBqmr.js";var r=Symbol(),i=Symbol(),a=()=>n(i,null),o=n=>{let o=a();e(r,n),e(i,t(()=>(o==null||o.value)&&n.value))};export{o as n,a as t};
